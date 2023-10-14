@@ -4,5 +4,5 @@ Python equivalents of do-while and do-until constructs
 using either lambda functions
 or using eval
 
-abcdefg - edit 04
+abcdefg - edit 06
 
